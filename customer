@@ -1,0 +1,11 @@
+customer= {"age": 35.0,
+           "balance": 103502.22,
+           "creditscore": 852,
+           "estimatedsalary": 146191.82,
+           "gender": "Female",
+           "geography": "France",
+           "hascrcard": "Yes",
+           "isactivemember": "Yes",
+           "numofproducts": 2,
+           "rownumber": 252,
+           "tenure": 5}
