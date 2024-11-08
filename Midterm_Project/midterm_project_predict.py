@@ -1,5 +1,6 @@
 import pickle
 from flask import Flask, request, jsonify
+import os  # We need this line to use the correct port
 
 # Load the model and the DictVectorizer
 model_file = 'Mideterm_model.bin'
@@ -28,4 +29,10 @@ def predict():
     return jsonify(result)
 
 if __name__ == "__main__":
-    app.run(debug=True, host="0.0.0.0", port=1911)
+    # Use the port that Render provides. If it's not available, use 1911 as a fallback
+    port = int(os.environ.get("PORT", 1911))
+    app.run(debug=True, host="0.0.0.0", port=port)
+
+ 
+
+
