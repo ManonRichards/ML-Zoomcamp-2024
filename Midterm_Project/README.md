@@ -65,8 +65,8 @@ Make sure you have the following installed:
 - pipenv
 
 # Clone the Repository
-git clone [https://github.com/username/repository-name.git](https://github.com/ManonRichards/ML-Zoomcamp-2024/tree/main/Midterm_Project)
-cd Midterm_Project
+`git clone [https://github.com/username/repository-name.git](https://github.com/ManonRichards/ML-Zoomcamp-2024/tree/main/Midterm_Project)
+cd Midterm_Project`
 
 # Set up the environment
 Run the following command to install the necessary Python Packages from Pipfile
