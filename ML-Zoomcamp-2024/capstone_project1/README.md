@@ -41,7 +41,7 @@ The data includes the following columns:
 
 ### EDA
 
-The code that holds EDA is stored within this folder and called Capstone1_Project.ipynb: [Capstone1 Project Notebook]([https://github.com/ManonRichards/ML-Zoomcamp-2024/blob/main/Midterm_Project/MidTerm_Project.ipynb](https://github.com/ManonRichards/ML-Zoomcamp-2024/blob/main/ML-Zoomcamp-2024/capstone_project1/Capstone1_Project.ipynb))
+The code that holds EDA is stored within this folder and called Capstone1_Project.ipynb: [Capstone1 Project Notebook](https://github.com/ManonRichards/ML-Zoomcamp-2024/blob/main/ML-Zoomcamp-2024/capstone_project1/Capstone1_Project.ipynb)
 
 It includes feature importance and mutual information. 
 
@@ -58,7 +58,7 @@ In the same code as above, you will find the following training models:
 
 Logistic Regression Performs best.
 
-The script for training the Logistic Regression model is here: [Logistic Regression Training Model]([https://github.com/ManonRichards/ML-Zoomcamp-2024/blob/main/Midterm_Project/MidTerm_Project_XGBoost_Model.ipynb](https://github.com/ManonRichards/ML-Zoomcamp-2024/blob/main/ML-Zoomcamp-2024/capstone_project1/capstone1_log_reg_model.py))
+The script for training the Logistic Regression model is here: [Logistic Regression Training Model](https://github.com/ManonRichards/ML-Zoomcamp-2024/blob/main/ML-Zoomcamp-2024/capstone_project1/capstone1_log_reg_model.py)
 
 ### Deployment
 
