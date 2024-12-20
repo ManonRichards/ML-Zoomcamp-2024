@@ -10,7 +10,7 @@ Students come from different backgrounds and have differing learning styles, as 
 
 ### Data
 
-The data is sourced from here: [Student Scoring Prediction Dataset on Kaggle]([https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction/data](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors?select=StudentPerformanceFactors.csv))
+The data is sourced from here: [Student Scoring Prediction Dataset on Kaggle](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors?select=StudentPerformanceFactors.csv)
 
 This is read in as part of the EDA process and you can find it in the code. 
 
